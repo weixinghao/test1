@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"添加测试代码");
     NSLog(@"添加测试代码");
+    NSLog(@"添加测试代码3");
 }
 
 - (void)didReceiveMemoryWarning {
